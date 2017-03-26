@@ -1,0 +1,1307 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8252,
+          19.2121
+        ]
+      },
+      "properties": {
+        "cartodb_id": 1,
+        "how_did_you_hear_about_neighbourhood": "Husband, who heard through lottery",
+        "age": "middle",
+        "age_group": "middle ",
+        "sex": "Female",
+        "id": "S1RSC013C136M01",
+        "how_long_have_you_lived_in_neighbourhood": 25,
+        "longitude": 72.8252,
+        "latitude": 19.2121
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8252,
+          19.2121
+        ]
+      },
+      "properties": {
+        "cartodb_id": 2,
+        "how_did_you_hear_about_neighbourhood": "Agent",
+        "age": "Older",
+        "age_group": "older",
+        "sex": "Female",
+        "id": "S1RSC013C136M02",
+        "how_long_have_you_lived_in_neighbourhood": 0.25,
+        "longitude": 72.8252,
+        "latitude": 19.2121
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8252,
+          19.2121
+        ]
+      },
+      "properties": {
+        "cartodb_id": 3,
+        "how_did_you_hear_about_neighbourhood": "Agent",
+        "age": "",
+        "age_group": "middle",
+        "sex": "Male",
+        "id": "S1RSC013C136M03",
+        "how_long_have_you_lived_in_neighbourhood": 9,
+        "longitude": 72.8252,
+        "latitude": 19.2121
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8261,
+          19.2113
+        ]
+      },
+      "properties": {
+        "cartodb_id": 4,
+        "how_did_you_hear_about_neighbourhood": "",
+        "age": "",
+        "age_group": "middle",
+        "sex": "Male",
+        "id": "S1RSC017C116M04",
+        "how_long_have_you_lived_in_neighbourhood": 0,
+        "longitude": 72.8261,
+        "latitude": 19.2113
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.825514,
+          19.216416
+        ]
+      },
+      "properties": {
+        "cartodb_id": 5,
+        "how_did_you_hear_about_neighbourhood": "Family told them about it and that it was a \"nice place\"",
+        "age": "",
+        "age_group": "middle",
+        "sex": "family",
+        "id": "S5RSC053C538M05",
+        "how_long_have_you_lived_in_neighbourhood": 1,
+        "longitude": 72.8255143,
+        "latitude": 19.2164156
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.825514,
+          19.216416
+        ]
+      },
+      "properties": {
+        "cartodb_id": 6,
+        "how_did_you_hear_about_neighbourhood": "wanted to come here for a while but had no connections to come here.",
+        "age": "young children and mother",
+        "age_group": "young",
+        "sex": "",
+        "id": "S5RSC053C538M06",
+        "how_long_have_you_lived_in_neighbourhood": 5,
+        "longitude": 72.8255143,
+        "latitude": 19.2164156
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8303,
+          19.21654
+        ]
+      },
+      "properties": {
+        "cartodb_id": 7,
+        "how_did_you_hear_about_neighbourhood": "she married and moved here but her husbands family won the lottery. father in law had applied.",
+        "age": "30s and 50s",
+        "age_group": "middle",
+        "sex": "female",
+        "id": "S3RSC028C303M07",
+        "how_long_have_you_lived_in_neighbourhood": 25,
+        "longitude": 72.8303,
+        "latitude": 19.21654
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8303,
+          19.21654
+        ]
+      },
+      "properties": {
+        "cartodb_id": 8,
+        "how_did_you_hear_about_neighbourhood": "they got the house in 87 but didn't move in until 97 because the husband had little brothers where he was living that he needed to take care of. but he built the house and it sat empty.",
+        "age": "middle aged",
+        "age_group": "middle",
+        "sex": "male and female (husband and wife)",
+        "id": "S3RSC028C312M08",
+        "how_long_have_you_lived_in_neighbourhood": 20,
+        "longitude": 72.8303,
+        "latitude": 19.21654
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.830752,
+          19.216587
+        ]
+      },
+      "properties": {
+        "cartodb_id": 9,
+        "how_did_you_hear_about_neighbourhood": "wanted to come for a while but didn't win lottery. they rented for 9 years at first.",
+        "age": "mother and 2 young adult daughters",
+        "age_group": "young",
+        "sex": "female",
+        "id": "S3RSC028C312M09",
+        "how_long_have_you_lived_in_neighbourhood": 26,
+        "longitude": 72.8307519,
+        "latitude": 19.2165869
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.829415,
+          19.216476
+        ]
+      },
+      "properties": {
+        "cartodb_id": 10,
+        "how_did_you_hear_about_neighbourhood": "lottery.",
+        "age": "elderly",
+        "age_group": "older",
+        "sex": "female",
+        "id": "S3RSC028C307M10",
+        "how_long_have_you_lived_in_neighbourhood": 20,
+        "longitude": 72.829415,
+        "latitude": 19.216476
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.829376,
+          19.216703
+        ]
+      },
+      "properties": {
+        "cartodb_id": 11,
+        "how_did_you_hear_about_neighbourhood": "lottery.",
+        "age": "middle aged and 20s",
+        "age_group": "middle",
+        "sex": "1 female, 3 males",
+        "id": "S3RSC028C307M11",
+        "how_long_have_you_lived_in_neighbourhood": 28,
+        "longitude": 72.829376,
+        "latitude": 19.216703
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.825514,
+          19.216416
+        ]
+      },
+      "properties": {
+        "cartodb_id": 12,
+        "how_did_you_hear_about_neighbourhood": "father's family lived there.",
+        "age": "20 year old son and mother",
+        "age_group": "middle",
+        "sex": "son and mother",
+        "id": "S5RSC053C537M12",
+        "how_long_have_you_lived_in_neighbourhood": 20,
+        "longitude": 72.8255143,
+        "latitude": 19.2164156
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.832396,
+          19.2205
+        ]
+      },
+      "properties": {
+        "cartodb_id": 13,
+        "how_did_you_hear_about_neighbourhood": "bought from original owners (lottery winners)",
+        "age": "",
+        "age_group": "middle",
+        "sex": "Husband, wife, grandmother",
+        "id": "S4RCS007C447M13",
+        "how_long_have_you_lived_in_neighbourhood": 25,
+        "longitude": 72.832396,
+        "latitude": 19.2205
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.833146,
+          19.222667
+        ]
+      },
+      "properties": {
+        "cartodb_id": 14,
+        "how_did_you_hear_about_neighbourhood": "knew that it was a place you can get more space for your money and they wanted more space.",
+        "age": "family with 20yr old children",
+        "age_group": "middle",
+        "sex": "",
+        "id": "S7RSCP000C000M14",
+        "how_long_have_you_lived_in_neighbourhood": 2,
+        "longitude": 72.833146,
+        "latitude": 19.222667
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.832425,
+          19.222856
+        ]
+      },
+      "properties": {
+        "cartodb_id": 15,
+        "how_did_you_hear_about_neighbourhood": "grew up in neighborhood. her parents won the lottery",
+        "age": "30s",
+        "age_group": "middle",
+        "sex": "Female",
+        "id": "S7RSC008C741M15",
+        "how_long_have_you_lived_in_neighbourhood": 0.5,
+        "longitude": 72.832425,
+        "latitude": 19.222856
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.832207,
+          19.22272
+        ]
+      },
+      "properties": {
+        "cartodb_id": 16,
+        "how_did_you_hear_about_neighbourhood": "father won lottery",
+        "age": "27",
+        "age_group": "young",
+        "sex": "Female",
+        "id": "S7-Borasala Road-C739M15",
+        "how_long_have_you_lived_in_neighbourhood": 27,
+        "longitude": 72.832207,
+        "latitude": 19.22272
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8249,
+          19.212
+        ]
+      },
+      "properties": {
+        "cartodb_id": 17,
+        "how_did_you_hear_about_neighbourhood": "Lottery",
+        "age": "45 years old",
+        "age_group": "Middle",
+        "sex": "Female",
+        "id": "S1RSC013C141T01",
+        "how_long_have_you_lived_in_neighbourhood": 28,
+        "longitude": 72.8249,
+        "latitude": 19.212
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8249,
+          19.212
+        ]
+      },
+      "properties": {
+        "cartodb_id": 18,
+        "how_did_you_hear_about_neighbourhood": "Purchased from lottery winner",
+        "age": "55 years old",
+        "age_group": "Older",
+        "sex": "Female\n",
+        "id": "S1RSC013C141T02",
+        "how_long_have_you_lived_in_neighbourhood": 32,
+        "longitude": 72.8249,
+        "latitude": 19.212
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8249,
+          19.212
+        ]
+      },
+      "properties": {
+        "cartodb_id": 19,
+        "how_did_you_hear_about_neighbourhood": "Lottery",
+        "age": "Middle Aged (50s?)",
+        "age_group": "Older",
+        "sex": "Male\n",
+        "id": "S1RSC013C141T03",
+        "how_long_have_you_lived_in_neighbourhood": 28,
+        "longitude": 72.8249,
+        "latitude": 19.212
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8265,
+          19.2192
+        ]
+      },
+      "properties": {
+        "cartodb_id": 20,
+        "how_did_you_hear_about_neighbourhood": "Bought it from lottery winner (for 1.5 lakhs)",
+        "age": "Older",
+        "age_group": "Older",
+        "sex": "Female",
+        "id": "S5RSC051C558T04",
+        "how_long_have_you_lived_in_neighbourhood": 20,
+        "longitude": 72.8265,
+        "latitude": 19.2192
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8265,
+          19.2187
+        ]
+      },
+      "properties": {
+        "cartodb_id": 21,
+        "how_did_you_hear_about_neighbourhood": "Moved in 1994 and rented initially both a 40m2 house and also a 40m2 space for sculpture workshop which he later bought from a lottery winner",
+        "age": "Middle-aged",
+        "age_group": "Middle",
+        "sex": "Male",
+        "id": "S5RSC051C558T05",
+        "how_long_have_you_lived_in_neighbourhood": 22,
+        "longitude": 72.8265,
+        "latitude": 19.2187
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8271,
+          19.2191
+        ]
+      },
+      "properties": {
+        "cartodb_id": 22,
+        "how_did_you_hear_about_neighbourhood": "Bought from previous owner",
+        "age": "Middle aged",
+        "age_group": "Middle",
+        "sex": "M",
+        "id": "S5RSC051C599T06",
+        "how_long_have_you_lived_in_neighbourhood": 2,
+        "longitude": 72.8271,
+        "latitude": 19.2191
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8265,
+          19.2173
+        ]
+      },
+      "properties": {
+        "cartodb_id": 23,
+        "how_did_you_hear_about_neighbourhood": "Bought from previous owner",
+        "age": "29",
+        "age_group": "Young",
+        "sex": "M",
+        "id": "S3RSC028C303T07",
+        "how_long_have_you_lived_in_neighbourhood": 10,
+        "longitude": 72.8265,
+        "latitude": 19.2173
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8265,
+          19.2175
+        ]
+      },
+      "properties": {
+        "cartodb_id": 24,
+        "how_did_you_hear_about_neighbourhood": "",
+        "age": "Older (grandmother)",
+        "age_group": "Older",
+        "sex": "F",
+        "id": "S3RSC028C304T08",
+        "how_long_have_you_lived_in_neighbourhood": 5,
+        "longitude": 72.8265,
+        "latitude": 19.2175
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8281,
+          19.2141
+        ]
+      },
+      "properties": {
+        "cartodb_id": 25,
+        "how_did_you_hear_about_neighbourhood": "\n",
+        "age": "35",
+        "age_group": "Middle",
+        "sex": "F",
+        "id": "S3RSC028C311T09",
+        "how_long_have_you_lived_in_neighbourhood": 21,
+        "longitude": 72.8281,
+        "latitude": 19.2141
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8343,
+          19.2124
+        ]
+      },
+      "properties": {
+        "cartodb_id": 26,
+        "how_did_you_hear_about_neighbourhood": "",
+        "age": "Young (20s)",
+        "age_group": "Young",
+        "sex": "M",
+        "id": "S3RDP005B235T10",
+        "how_long_have_you_lived_in_neighbourhood": 8,
+        "longitude": 72.8343,
+        "latitude": 19.2124
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8323,
+          19.2206
+        ]
+      },
+      "properties": {
+        "cartodb_id": 27,
+        "how_did_you_hear_about_neighbourhood": "won the lottery",
+        "age": "26",
+        "age_group": "Young",
+        "sex": "M",
+        "id": "S4RSC039C447T11",
+        "how_long_have_you_lived_in_neighbourhood": 27,
+        "longitude": 72.8323,
+        "latitude": 19.2206
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8331,
+          19.2228
+        ]
+      },
+      "properties": {
+        "cartodb_id": 28,
+        "how_did_you_hear_about_neighbourhood": "won the lottery",
+        "age": "older woman and a younger woman (25)",
+        "age_group": "Young",
+        "sex": "F",
+        "id": "S7RDP007C702T12",
+        "how_long_have_you_lived_in_neighbourhood": 22,
+        "longitude": 72.8331,
+        "latitude": 19.2228
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8311,
+          19.2221
+        ]
+      },
+      "properties": {
+        "cartodb_id": 29,
+        "how_did_you_hear_about_neighbourhood": "Moved here because she married; husband's family bought it from an agent",
+        "age": "late 20s",
+        "age_group": "Young",
+        "sex": "F\n",
+        "id": "S7RSC041C711T13",
+        "how_long_have_you_lived_in_neighbourhood": 20,
+        "longitude": 72.8311,
+        "latitude": 19.2221
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8307,
+          19.2231
+        ]
+      },
+      "properties": {
+        "cartodb_id": 30,
+        "how_did_you_hear_about_neighbourhood": "",
+        "age": "Older",
+        "age_group": "Older",
+        "sex": "M",
+        "id": "S7RSC068B000T14",
+        "how_long_have_you_lived_in_neighbourhood": 10,
+        "longitude": 72.8307,
+        "latitude": 19.2231
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.825302,
+          19.211914
+        ]
+      },
+      "properties": {
+        "cartodb_id": 31,
+        "how_did_you_hear_about_neighbourhood": "Lottery",
+        "age": "Older",
+        "age_group": "Older",
+        "sex": "Female",
+        "id": "S1RSC013C134A01",
+        "how_long_have_you_lived_in_neighbourhood": 27,
+        "longitude": 72.8253018,
+        "latitude": 19.2119143
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.824892,
+          19.211925
+        ]
+      },
+      "properties": {
+        "cartodb_id": 48,
+        "how_did_you_hear_about_neighbourhood": "Husband",
+        "age": "48 years old",
+        "age_group": "Middle",
+        "sex": "Female",
+        "id": "S1RSC013C142F01",
+        "how_long_have_you_lived_in_neighbourhood": 15,
+        "longitude": 72.8248916,
+        "latitude": 19.2119252
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.825252,
+          19.211876
+        ]
+      },
+      "properties": {
+        "cartodb_id": 32,
+        "how_did_you_hear_about_neighbourhood": "Husband already owned in the neighbourhood",
+        "age": "Middle Aged",
+        "age_group": "Middle Aged",
+        "sex": "Female",
+        "id": "S1RSC013C134A03",
+        "how_long_have_you_lived_in_neighbourhood": 22,
+        "longitude": 72.8252521,
+        "latitude": 19.2118763
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.828235,
+          19.21087
+        ]
+      },
+      "properties": {
+        "cartodb_id": 33,
+        "how_did_you_hear_about_neighbourhood": "Lottery",
+        "age": "Older",
+        "age_group": "Older",
+        "sex": "Male",
+        "id": "S1RSC003C235A02",
+        "how_long_have_you_lived_in_neighbourhood": 27,
+        "longitude": 72.8282349,
+        "latitude": 19.2108703
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.824012,
+          19.217033
+        ]
+      },
+      "properties": {
+        "cartodb_id": 34,
+        "how_did_you_hear_about_neighbourhood": "Son found him the place",
+        "age": "Older",
+        "age_group": "Older",
+        "sex": "Male",
+        "id": "S5RSC059C551A05",
+        "how_long_have_you_lived_in_neighbourhood": 4,
+        "longitude": 72.824012,
+        "latitude": 19.2170326
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.824454,
+          19.217504
+        ]
+      },
+      "properties": {
+        "cartodb_id": 35,
+        "how_did_you_hear_about_neighbourhood": "Through a Broker",
+        "age": "35",
+        "age_group": "Middle Aged",
+        "sex": "Female",
+        "id": "S5RSC059C553A04",
+        "how_long_have_you_lived_in_neighbourhood": 5,
+        "longitude": 72.824454,
+        "latitude": 19.2175039
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.823641,
+          19.216208
+        ]
+      },
+      "properties": {
+        "cartodb_id": 36,
+        "how_did_you_hear_about_neighbourhood": "husbands friend told them about the area because it was the only place that fit their budget",
+        "age": "34",
+        "age_group": "Middle",
+        "sex": "female",
+        "id": "S5RSC059C545A06",
+        "how_long_have_you_lived_in_neighbourhood": 12,
+        "longitude": 72.8236406,
+        "latitude": 19.2162081
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.82708,
+          19.217095
+        ]
+      },
+      "properties": {
+        "cartodb_id": 37,
+        "how_did_you_hear_about_neighbourhood": "broker conected them with the property",
+        "age": "Older woman",
+        "age_group": "Older",
+        "sex": "female",
+        "id": "S5RSC049C520A07\n",
+        "how_long_have_you_lived_in_neighbourhood": 18,
+        "longitude": 72.8270796,
+        "latitude": 19.2170948
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.827167,
+          19.217216
+        ]
+      },
+      "properties": {
+        "cartodb_id": 38,
+        "how_did_you_hear_about_neighbourhood": "they have relatives that live in charkop",
+        "age": "middle aged\n",
+        "age_group": "Middle Aged",
+        "sex": "female",
+        "id": "S5RSC049C520A08\n",
+        "how_long_have_you_lived_in_neighbourhood": 25,
+        "longitude": 72.8271665,
+        "latitude": 19.2172156
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.830423,
+          19.216186
+        ]
+      },
+      "properties": {
+        "cartodb_id": 39,
+        "how_did_you_hear_about_neighbourhood": "husband got a form to enter the lottery through his workplace at a tobacco company",
+        "age": "30",
+        "age_group": "Middle Aged",
+        "sex": "female",
+        "id": "S3RSC028C303A09",
+        "how_long_have_you_lived_in_neighbourhood": 30,
+        "longitude": 72.8304231,
+        "latitude": 19.2161855
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.831163,
+          19.217047
+        ]
+      },
+      "properties": {
+        "cartodb_id": 40,
+        "how_did_you_hear_about_neighbourhood": "",
+        "age": "16",
+        "age_group": "Younger",
+        "sex": "female",
+        "id": "S3RSC036C315A10",
+        "how_long_have_you_lived_in_neighbourhood": 15,
+        "longitude": 72.8311629,
+        "latitude": 19.2170472
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.830579,
+          19.217754
+        ]
+      },
+      "properties": {
+        "cartodb_id": 41,
+        "how_did_you_hear_about_neighbourhood": "mum had a property here",
+        "age": "43",
+        "age_group": "Middle Aged",
+        "sex": "male",
+        "id": "S3RSC032C331A11",
+        "how_long_have_you_lived_in_neighbourhood": 11,
+        "longitude": 72.8305794,
+        "latitude": 19.2177542
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.830863,
+          19.217345
+        ]
+      },
+      "properties": {
+        "cartodb_id": 42,
+        "how_did_you_hear_about_neighbourhood": "heard about the neighbourhood through friends, he had been trying to get a property here since 1992. ",
+        "age": "45",
+        "age_group": "Middle Aged",
+        "sex": "male",
+        "id": "S3RSC032C331A12",
+        "how_long_have_you_lived_in_neighbourhood": 10,
+        "longitude": 72.830863,
+        "latitude": 19.2173453
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.829657,
+          19.217055
+        ]
+      },
+      "properties": {
+        "cartodb_id": 43,
+        "how_did_you_hear_about_neighbourhood": "heard about the lottery",
+        "age": "Older gentleman",
+        "age_group": "Older",
+        "sex": "male",
+        "id": "S3RSC032C321A13",
+        "how_long_have_you_lived_in_neighbourhood": 12,
+        "longitude": 72.8296571,
+        "latitude": 19.217055
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.833909,
+          19.219363
+        ]
+      },
+      "properties": {
+        "cartodb_id": 44,
+        "how_did_you_hear_about_neighbourhood": "husands brother had a home here that they visited and liked. Their agent was able to find them a property here",
+        "age": "30",
+        "age_group": "Middle",
+        "sex": "female",
+        "id": "S4RSC039C449A14",
+        "how_long_have_you_lived_in_neighbourhood": 0.3,
+        "longitude": 72.8339091,
+        "latitude": 19.2193632
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.82989,
+          19.221281
+        ]
+      },
+      "properties": {
+        "cartodb_id": 45,
+        "how_did_you_hear_about_neighbourhood": "he has a relative in sector 3 that told him about it",
+        "age": "older",
+        "age_group": "Older",
+        "sex": "male",
+        "id": "S7RSC035C718A15",
+        "how_long_have_you_lived_in_neighbourhood": 1,
+        "longitude": 72.8298904,
+        "latitude": 19.2212815
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.830887,
+          19.221839
+        ]
+      },
+      "properties": {
+        "cartodb_id": 46,
+        "how_did_you_hear_about_neighbourhood": "broker",
+        "age": "53",
+        "age_group": "Older",
+        "sex": "female",
+        "id": "S7RSC035C716A16",
+        "how_long_have_you_lived_in_neighbourhood": 3,
+        "longitude": 72.8308867,
+        "latitude": 19.2218394
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.83059,
+          19.222419
+        ]
+      },
+      "properties": {
+        "cartodb_id": 47,
+        "how_did_you_hear_about_neighbourhood": "heard about the lottery and applied",
+        "age": "42",
+        "age_group": "Middle",
+        "sex": "male",
+        "id": "S7RSC035C713A17",
+        "how_long_have_you_lived_in_neighbourhood": 22,
+        "longitude": 72.8305903,
+        "latitude": 19.2224186
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8249,
+          19.211
+        ]
+      },
+      "properties": {
+        "cartodb_id": 49,
+        "how_did_you_hear_about_neighbourhood": "Husband",
+        "age": "42 years old",
+        "age_group": "Middle",
+        "sex": "Female",
+        "id": "S1RSC013C146F02",
+        "how_long_have_you_lived_in_neighbourhood": 15,
+        "longitude": 72.8249,
+        "latitude": 19.211
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8251,
+          19.2117
+        ]
+      },
+      "properties": {
+        "cartodb_id": 50,
+        "how_did_you_hear_about_neighbourhood": "Lottery",
+        "age": "48 years old",
+        "age_group": "Middle",
+        "sex": "Male",
+        "id": "S1RSC013C134F03",
+        "how_long_have_you_lived_in_neighbourhood": 15,
+        "longitude": 72.8251,
+        "latitude": 19.2117
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8263,
+          19.2164
+        ]
+      },
+      "properties": {
+        "cartodb_id": 51,
+        "how_did_you_hear_about_neighbourhood": "An add in the newspaper",
+        "age": "69",
+        "age_group": "Older",
+        "sex": "Male",
+        "id": "S5RSC053C530F04",
+        "how_long_have_you_lived_in_neighbourhood": 25,
+        "longitude": 72.8263,
+        "latitude": 19.2164
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8259,
+          19.2167
+        ]
+      },
+      "properties": {
+        "cartodb_id": 52,
+        "how_did_you_hear_about_neighbourhood": "Through a friend",
+        "age": "55",
+        "age_group": "Older",
+        "sex": "Male",
+        "id": "S5RSC053C531F05",
+        "how_long_have_you_lived_in_neighbourhood": 17,
+        "longitude": 72.8259,
+        "latitude": 19.2167
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8257,
+          19.216
+        ]
+      },
+      "properties": {
+        "cartodb_id": 53,
+        "how_did_you_hear_about_neighbourhood": "She moved here as a kid with her family, as tenants",
+        "age": "35",
+        "age_group": "Middle",
+        "sex": "Female",
+        "id": "S5RSC053C529F06",
+        "how_long_have_you_lived_in_neighbourhood": 35,
+        "longitude": 72.8257,
+        "latitude": 19.216
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8303,
+          19.2161
+        ]
+      },
+      "properties": {
+        "cartodb_id": 54,
+        "how_did_you_hear_about_neighbourhood": "Her brother in law with the lottery",
+        "age": "64",
+        "age_group": "Older",
+        "sex": "Female",
+        "id": "S3RSC028C311F07",
+        "how_long_have_you_lived_in_neighbourhood": 10,
+        "longitude": 72.8303,
+        "latitude": 19.2161
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8279,
+          19.2141
+        ]
+      },
+      "properties": {
+        "cartodb_id": 55,
+        "how_did_you_hear_about_neighbourhood": "She was born in Charkop",
+        "age": "22",
+        "age_group": "Young",
+        "sex": "Female",
+        "id": "S3RSC028C313F08",
+        "how_long_have_you_lived_in_neighbourhood": 22,
+        "longitude": 72.8279,
+        "latitude": 19.2141
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8299,
+          19.2178
+        ]
+      },
+      "properties": {
+        "cartodb_id": 56,
+        "how_did_you_hear_about_neighbourhood": "Her father won the lottery",
+        "age": "17",
+        "age_group": "Young",
+        "sex": "Female",
+        "id": "S3RSC032C327F09",
+        "how_long_have_you_lived_in_neighbourhood": 17,
+        "longitude": 72.8299,
+        "latitude": 19.2178
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8294,
+          19.2175
+        ]
+      },
+      "properties": {
+        "cartodb_id": 57,
+        "how_did_you_hear_about_neighbourhood": "Father-in-law won the lottery",
+        "age": "Middle aged ",
+        "age_group": "Middle",
+        "sex": "Female",
+        "id": "S3RSC032C325F10",
+        "how_long_have_you_lived_in_neighbourhood": 18,
+        "longitude": 72.8294,
+        "latitude": 19.2175
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8315,
+          19.2208
+        ]
+      },
+      "properties": {
+        "cartodb_id": 58,
+        "how_did_you_hear_about_neighbourhood": "Family won lottery",
+        "age": "21",
+        "age_group": "Young",
+        "sex": "Male",
+        "id": "S3RSC036C335F11",
+        "how_long_have_you_lived_in_neighbourhood": 21,
+        "longitude": 72.8315,
+        "latitude": 19.2208
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8324,
+          19.2207
+        ]
+      },
+      "properties": {
+        "cartodb_id": 59,
+        "how_did_you_hear_about_neighbourhood": "Her daughter married and moved here, then she brought her ",
+        "age": "60-70 years old",
+        "age_group": "Older",
+        "sex": "Female",
+        "id": "S4RDP007C447F12",
+        "how_long_have_you_lived_in_neighbourhood": 5,
+        "longitude": 72.8324,
+        "latitude": 19.2207
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8319,
+          19.2205
+        ]
+      },
+      "properties": {
+        "cartodb_id": 60,
+        "how_did_you_hear_about_neighbourhood": "Relatives told her about the site",
+        "age": "middle aged",
+        "age_group": "Middle",
+        "sex": "Female",
+        "id": "S4RDP007C448F13",
+        "how_long_have_you_lived_in_neighbourhood": 5,
+        "longitude": 72.8319,
+        "latitude": 19.2205
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.833,
+          19.2231
+        ]
+      },
+      "properties": {
+        "cartodb_id": 61,
+        "how_did_you_hear_about_neighbourhood": "Through lottery",
+        "age": "31 years old",
+        "age_group": "Middle",
+        "sex": "Male",
+        "id": "S7RSC039C448F14",
+        "how_long_have_you_lived_in_neighbourhood": 20,
+        "longitude": 72.833,
+        "latitude": 19.2231
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8332,
+          19.2229
+        ]
+      },
+      "properties": {
+        "cartodb_id": 62,
+        "how_did_you_hear_about_neighbourhood": "Through lottery",
+        "age": "48 years old ",
+        "age_group": "Middle",
+        "sex": "Female",
+        "id": "S7RSC039C701F15",
+        "how_long_have_you_lived_in_neighbourhood": 25,
+        "longitude": 72.8332,
+        "latitude": 19.2229
+      }
+    }
+  ]
+}
